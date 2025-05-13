@@ -1,7 +1,7 @@
 <h1 align="center">ScriptCat</h1>
 
 <p align="center">
-<img src="https://github.com/scriptscat/scriptcat/blob/main/build/assets/logo.png?raw=true"/>
+<img src="https://github.com/scriptscat/scriptcat/blob/main/src/assets/logo.png?raw=true"/>
 </p>
 
 ScriptCat，是一个可以执行用户脚本的浏览器扩展，相比油猴脚本拥有后台脚本运行的框架与更多的API。
