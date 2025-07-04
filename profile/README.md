@@ -1,3 +1,7 @@
+<div align="right">
+  <a href="README_EN.md">English</a> | <a href="README.md">中文</a>
+</div>
+
 <h1 align="center">ScriptCat</h1>
 
 <p align="center">
